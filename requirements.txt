@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-dash==3.0.0
+streamlit==1.36.0 
+yfinance==0.2.40 
+numpy==1.26.4 
+pandas==2.2.2 
 plotly==5.22.0
-yfinance==0.2.40
-numpy==1.26.4
-pandas==2.2.2
-gunicorn==22.0.0
-=======
-dash==3.0.0
-plotly==5.22.0
-yfinance==0.2.40
-numpy==1.26.4
-pandas==2.2.2
-gunicorn==22.0.0
->>>>>>> bf089d4056ed90118f1feedb6c8d3f51becea6a0
